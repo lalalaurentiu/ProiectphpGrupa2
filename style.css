@@ -163,3 +163,32 @@
   background-color: #e73c3c;
   color: #fff;
 }
+
+.pizza {
+  display: flex;
+  width: 2000px;
+  margin: 20px;
+  font-size: 15px;
+}
+
+.pizza img {
+  width: 300px;
+  margin-right: 20px;
+}
+
+.text {
+  margin-left: 100px;
+  margin-right: 100px;
+  text-indent: 5%;
+  text-align: justify;
+  border: 0.5px solid black;
+  margin-top: 20px;
+}
+
+.titlepizza {
+  margin-top: 25px;
+}
+
+.title {
+  margin-left: 50px;
+}
